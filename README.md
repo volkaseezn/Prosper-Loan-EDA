@@ -25,5 +25,4 @@
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
 > I focused on Borrower Rate for presentation. Relationships are made between other features and these two in the presentation. Changes I made to my design include legend titles, axis labels, and titles.
